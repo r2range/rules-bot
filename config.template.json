@@ -1,6 +1,6 @@
 {
-    "Token": "your bot token",
-    "RoomIDList":["room id list goes here"],
+    "Token": "NDM3MDI0Nzg0NTY4NjgwNDQ4.DbyQ4w.auLSdc53WSTxg2GU93hYR3Oqao4",
+    "RoomIDList":["437178186523213824"],
     "RolesToNotify": ["<@&roleid>", "<@userid>"],
     "GameStatus": "current playing game",
     "Servers": [
